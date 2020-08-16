@@ -108,6 +108,11 @@ def countElementsByCriteria(criteria, column, lst):
     return 0
 
 
+def goodMovies(criteria, column, list):
+    pass
+
+
+
 def main():
     """
     Método principal del programa, se encarga de manejar todos los metodos adicionales creados
